@@ -1,0 +1,7 @@
+flask==2.3.2
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+joblib
+matplotlib
+chartjs-python==0.0.3

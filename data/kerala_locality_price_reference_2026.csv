@@ -1,0 +1,149 @@
+District,Locality,Market_Tier,Research_Anchor_INR_per_sqft
+Thiruvananthapuram,Kowdiar,Urban,9000
+Thiruvananthapuram,Vazhuthacaud,Urban,7800
+Thiruvananthapuram,Pattom,Urban,7200
+Thiruvananthapuram,Kazhakkoottam,Semi-Urban / Rural mix,6800
+Thiruvananthapuram,Technopark,Semi-Urban / Rural mix,7000
+Thiruvananthapuram,Kesavadasapuram,Semi-Urban / Rural mix,7000
+Thiruvananthapuram,Sreekaryam,Semi-Urban / Rural mix,6200
+Thiruvananthapuram,Peroorkada,Semi-Urban / Rural mix,5900
+Thiruvananthapuram,Neyyattinkara,Semi-Urban / Rural mix,4200
+Thiruvananthapuram,Nedumangad,Semi-Urban / Rural mix,3600
+Thiruvananthapuram,Attingal,Semi-Urban / Rural mix,3900
+Thiruvananthapuram,Kazhakoottam,Semi-Urban / Rural mix,6800
+Kollam,Kollam Town,Urban,4800
+Kollam,Asramam,Semi-Urban / Rural mix,5200
+Kollam,Kavanad,Semi-Urban / Rural mix,5000
+Kollam,Karunagappally,Semi-Urban / Rural mix,3800
+Kollam,Kottarakkara,Semi-Urban / Rural mix,3400
+Kollam,Chinnakada,Urban,5000
+Kollam,Chathannoor,Semi-Urban / Rural mix,3200
+Kollam,Punalur,Semi-Urban / Rural mix,3000
+Kollam,Paravur,Semi-Urban / Rural mix,3600
+Pathanamthitta,Thiruvalla,Semi-Urban / Rural mix,4700
+Pathanamthitta,Adoor,Semi-Urban / Rural mix,3900
+Pathanamthitta,Pathanamthitta Town,Semi-Urban / Rural mix,3800
+Pathanamthitta,Pandalam,Semi-Urban / Rural mix,3400
+Pathanamthitta,Ranni,Rural,3000
+Pathanamthitta,Konni,Rural,2900
+Pathanamthitta,Mallappally,Semi-Urban / Rural mix,3000
+Alappuzha,Alappuzha Town,Urban,6000
+Alappuzha,Alappuzha Beach,Semi-Urban / Rural mix,6800
+Alappuzha,Cherthala,Semi-Urban / Rural mix,4700
+Alappuzha,Chengannur,Semi-Urban / Rural mix,4300
+Alappuzha,Kayamkulam,Semi-Urban / Rural mix,3600
+Alappuzha,Haripad,Semi-Urban / Rural mix,3200
+Alappuzha,Muhamma,Semi-Urban / Rural mix,4000
+Alappuzha,Ambalappuzha,Semi-Urban / Rural mix,3400
+Kottayam,Kottayam Town,Urban,5200
+Kottayam,Kumarakom,Semi-Urban / Rural mix,6500
+Kottayam,Changanassery,Semi-Urban / Rural mix,4300
+Kottayam,Pala,Semi-Urban / Rural mix,4200
+Kottayam,Ettumanoor,Semi-Urban / Rural mix,3900
+Kottayam,Kanjirappally,Rural,3000
+Kottayam,Vaikom,Semi-Urban / Rural mix,3500
+Kottayam,Manarcadu,Semi-Urban / Rural mix,3600
+Idukki,Munnar,Semi-Urban / Rural mix,6500
+Idukki,Thodupuzha,Semi-Urban / Rural mix,3900
+Idukki,Adimali,Semi-Urban / Rural mix,3000
+Idukki,Kattappana,Semi-Urban / Rural mix,3000
+Idukki,Nedumkandam,Rural,2700
+Idukki,Kumily,Semi-Urban / Rural mix,3400
+Idukki,Painavu,Rural,2600
+Ernakulam,Marine Drive,Urban,12500
+Ernakulam,Panampilly Nagar,Urban,9500
+Ernakulam,Kadavanthra,Urban,9000
+Ernakulam,Kaloor,Urban,8200
+Ernakulam,Vyttila,Urban,8000
+Ernakulam,Edappally,Urban,7600
+Ernakulam,Kakkanad,Semi-Urban / Rural mix,6500
+Ernakulam,Palarivattom,Urban,7500
+Ernakulam,Maradu,Semi-Urban / Rural mix,7300
+Ernakulam,Thrippunithura,Semi-Urban / Rural mix,6000
+Ernakulam,Kalamassery,Semi-Urban / Rural mix,6000
+Ernakulam,Aluva,Semi-Urban / Rural mix,5000
+Ernakulam,Vennala,Semi-Urban / Rural mix,7200
+Ernakulam,Pukkattupady,Semi-Urban / Rural mix,4700
+Ernakulam,Thevakkal,Semi-Urban / Rural mix,5400
+Ernakulam,Pallikkara,Semi-Urban / Rural mix,4600
+Ernakulam,Kizhakkambalam,Semi-Urban / Rural mix,4700
+Ernakulam,Chottanikkara,Semi-Urban / Rural mix,4200
+Ernakulam,Muvattupuzha,Semi-Urban / Rural mix,3700
+Ernakulam,Perumbavoor,Semi-Urban / Rural mix,3600
+Ernakulam,North Paravur,Semi-Urban / Rural mix,4100
+Thrissur,Ollur,Semi-Urban / Rural mix,9000
+Thrissur,Punkunnam,Semi-Urban / Rural mix,5500
+Thrissur,Ayyanthole,Semi-Urban / Rural mix,5000
+Thrissur,Patturaikkal,Semi-Urban / Rural mix,5600
+Thrissur,Naikkanal,Semi-Urban / Rural mix,5300
+Thrissur,Koorkenchery,Semi-Urban / Rural mix,6500
+Thrissur,Thrissur Town,Urban,5000
+Thrissur,Mannuthy,Semi-Urban / Rural mix,4000
+Thrissur,Kuttanellur,Semi-Urban / Rural mix,5500
+Thrissur,Guruvayur,Semi-Urban / Rural mix,3700
+Thrissur,Muthuvattoor,Semi-Urban / Rural mix,3500
+Thrissur,Kunnamkulam,Semi-Urban / Rural mix,3500
+Thrissur,Chalakudy,Semi-Urban / Rural mix,3900
+Thrissur,Kodungallur,Semi-Urban / Rural mix,3600
+Thrissur,Irinjalakuda,Semi-Urban / Rural mix,3400
+Palakkad,Palakkad Town,Urban,3900
+Palakkad,Olavakkode,Semi-Urban / Rural mix,4100
+Palakkad,Ottapalam,Semi-Urban / Rural mix,3200
+Palakkad,Shoranur,Semi-Urban / Rural mix,3100
+Palakkad,Chittur,Semi-Urban / Rural mix,2900
+Palakkad,Mannarkkad,Rural,2800
+Palakkad,Pattambi,Semi-Urban / Rural mix,3000
+Palakkad,Alathur,Rural,2900
+Malappuram,Manjeri,Semi-Urban / Rural mix,4300
+Malappuram,Perinthalmanna,Semi-Urban / Rural mix,4500
+Malappuram,Tirur,Semi-Urban / Rural mix,4200
+Malappuram,Kottakkal,Semi-Urban / Rural mix,4400
+Malappuram,Nilambur,Semi-Urban / Rural mix,3300
+Malappuram,Malappuram Town,Urban,4400
+Malappuram,Ponnani,Semi-Urban / Rural mix,3500
+Malappuram,Kondotty,Semi-Urban / Rural mix,4300
+Malappuram,Parappanangadi,Semi-Urban / Rural mix,3600
+Kozhikode,Pantheerankavu,Semi-Urban / Rural mix,8500
+Kozhikode,Palazhi,Semi-Urban / Rural mix,8600
+Kozhikode,Vellayil,Semi-Urban / Rural mix,7100
+Kozhikode,Vadakara,Semi-Urban / Rural mix,6800
+Kozhikode,Puthiyangadi,Semi-Urban / Rural mix,7900
+Kozhikode,Government Medical College,Urban,9300
+Kozhikode,Malaparamba,Semi-Urban / Rural mix,7500
+Kozhikode,Chevarambalam,Semi-Urban / Rural mix,6300
+Kozhikode,Mavoor Road,Urban,6400
+Kozhikode,Thondayad,Semi-Urban / Rural mix,5000
+Kozhikode,Chevayur,Semi-Urban / Rural mix,4700
+Kozhikode,West Hill,Semi-Urban / Rural mix,4200
+Kozhikode,Karaparamba,Semi-Urban / Rural mix,4000
+Kozhikode,Nellikode,Semi-Urban / Rural mix,4500
+Kozhikode,Cyberpark,Semi-Urban / Rural mix,5000
+Kozhikode,Kottooli,Semi-Urban / Rural mix,6500
+Kozhikode,Koyilandy,Semi-Urban / Rural mix,4100
+Kozhikode,Ramanattukara,Semi-Urban / Rural mix,3900
+Kozhikode,Feroke,Semi-Urban / Rural mix,3700
+Kozhikode,Mukkam,Rural,3000
+Wayanad,Kalpetta,Semi-Urban / Rural mix,4300
+Wayanad,Sulthan Bathery,Semi-Urban / Rural mix,3900
+Wayanad,Mananthavady,Semi-Urban / Rural mix,3400
+Wayanad,Meppadi,Semi-Urban / Rural mix,3300
+Wayanad,Panamaram,Rural,2900
+Wayanad,Vythiri,Semi-Urban / Rural mix,4700
+Wayanad,Ambalavayal,Semi-Urban / Rural mix,3200
+Kannur,Kannur Town,Urban,4500
+Kannur,Thalassery,Semi-Urban / Rural mix,4300
+Kannur,Payyannur,Semi-Urban / Rural mix,3900
+Kannur,Taliparamba,Semi-Urban / Rural mix,3500
+Kannur,Mattannur,Semi-Urban / Rural mix,3400
+Kannur,Thottada,Semi-Urban / Rural mix,4200
+Kannur,Chala,Semi-Urban / Rural mix,3600
+Kannur,Iritty,Rural,2800
+Kannur,Sreekandapuram,Rural,2900
+Kasaragod,Kasaragod Town,Urban,3600
+Kasaragod,Kanhangad,Semi-Urban / Rural mix,3500
+Kasaragod,Nileshwar,Semi-Urban / Rural mix,3200
+Kasaragod,Manjeshwar,Semi-Urban / Rural mix,3400
+Kasaragod,Uppala,Semi-Urban / Rural mix,3000
+Kasaragod,Bekal,Semi-Urban / Rural mix,4200
+Kasaragod,Hosdurg,Semi-Urban / Rural mix,3300
+Kasaragod,Cheruvathur,Rural,2900

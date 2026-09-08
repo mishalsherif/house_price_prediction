@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>KeralaPriceAI</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <small class="label">KERALA REAL-ESTATE ML PROJECT</small>
+      <h1>Estimate a property's value in Kerala.</h1>
+      <p>Choose a Kerala locality and property details to get an instant estimate from a machine-learning model trained on Kerala property data.</p>
+      <a class="cta" href="#predict">Start prediction →</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="predict" class="grid">
+      <div class="card form-card">
+        <h2>Property details</h2>
+        <form id="predict-form">
+          <div class="row">
+            <label>District
+              <select id="district" name="District"></select>
+            </label>
+            <label>Locality
+              <select id="locality" name="Locality"></select>
+            </label>
+          </div>
+
+          <div class="row">
+            <label>Area Type
+              <select id="area_type" name="Area_Type"></select>
+            </label>
+            <label>Property Type
+              <select id="property_type" name="Property_Type"></select>
+            </label>
+          </div>
+
+          <div class="row">
+            <label>Area (sq.ft)
+              <input id="area_sqft" name="Area_sqft" type="number" step="1" />
+            </label>
+            <label>BHK
+              <input id="BHK" name="BHK" type="number" min="1" />
+            </label>
+          </div>
+
+          <div class="row">
+            <label>Bathrooms
+              <input id="Bathrooms" name="Bathrooms" type="number" min="1" />
+            </label>
+            <label>Property Age (years)
+              <input id="Property_Age_Years" name="Property_Age_Years" type="number" min="0" />
+            </label>
+          </div>
+
+          <div class="row">
+            <label>Parking Spaces
+              <input id="Parking_Spaces" name="Parking_Spaces" type="number" min="0" />
+            </label>
+            <label>Furnishing
+              <select id="Furnishing" name="Furnishing"></select>
+            </label>
+          </div>
+
+          <div class="row">
+            <label>Floor
+              <input id="Floor" name="Floor" type="number" />
+            </label>
+            <label>Distance to City Center (km)
+              <input id="Distance_to_City_Center_km" name="Distance_to_City_Center_km" type="number" step="0.1" min="0" />
+            </label>
+          </div>
+
+          <div class="row">
+            <label>Road Access
+              <select id="Road_Access" name="Road_Access"></select>
+            </label>
+            <label>Gated Community
+              <select id="Gated_Community" name="Gated_Community">
+                <option>Yes</option>
+                <option>No</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="actions">
+            <button id="predict-btn" type="button">Predict house price</button>
+          </div>
+
+        </form>
+      </div>
+
+      <div class="card result-card">
+        <h3>Estimated property value</h3>
+        <div id="result-amount">₹ —</div>
+        <div id="result-note">Your prediction will appear here.</div>
+
+        <div class="model-info">
+          <div id="model-name">Model: —</div>
+          <div id="model-r2">R²: —</div>
+        </div>
+
+        <div class="factors">
+          <h4>Top price factors</h4>
+          <ul>
+            <li>Area — High</li>
+            <li>District / Locality — High</li>
+            <li>BHK & Bathrooms — Medium</li>
+            <li>Property Type — Medium</li>
+            <li>Property Age — Medium</li>
+            <li>Road Access — Medium</li>
+            <li>Furnishing — Low/Medium</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="how">
+      <h3>How it works</h3>
+      <div class="cards">
+        <div class="small-card"><strong>01</strong><p>Input — Provide location, area, rooms, age, parking and property features.</p></div>
+        <div class="small-card"><strong>02</strong><p>Machine Learning — Property features are preprocessed and passed to a trained Ridge Regression model.</p></div>
+        <div class="small-card"><strong>03</strong><p>Result — Receive an estimated property value and an indicative model range.</p></div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Disclaimer: This project uses a research-informed synthetic Kerala real-estate dataset. Predictions are educational and not certified market valuations.</p>
+    </footer>
+  </main>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>
