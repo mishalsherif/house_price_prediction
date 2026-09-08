@@ -14,7 +14,9 @@ dist/
 .env.*
 .DS_Store
 *.log
-models/
+models/*
+!models/kerala_house_price_model.pkl
+!models/metadata.json
 .idea/
 .vscode/
 .ipynb_checkpoints/
